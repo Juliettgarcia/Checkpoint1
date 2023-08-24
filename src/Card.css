@@ -1,0 +1,9 @@
+.card_item {
+  padding: 45px 5px 5px 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: start;
+  border-radius: 12px;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+}
